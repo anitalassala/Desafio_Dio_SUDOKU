@@ -15,6 +15,7 @@ Durante a construção deste projeto, aprendi:
 ### 🔧 Desafios Enfrentados
 - Desenvolver um algoritmo para resolver o tabuleiro:
 - Implementar a lógica de validação do Sudoku
+- Implementar os argumentos nas propriedades de execução
 
 ### ✅ Como Superei
 - Consultando a documentação oficial do Git e GitHub
